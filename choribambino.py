@@ -12,10 +12,7 @@ import pandas as pd
 import os
 # import requests
 
-# FUNCIONES
-# --------------------------------------------------------------------------- #
-
-# PROCEDIMIENTO
+# PROCESS
 # --------------------------------------------------------------------------- #
 
 # Opening weather stations metadata

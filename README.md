@@ -10,5 +10,5 @@ so there is nothing _illegal_.
 Just run the `choribambino.py` script.
 
 ```
-python choribambino.py
+python3 choribambino.py
 ```
